@@ -1,0 +1,9 @@
+{
+	"KSRobot_MLX90614|block": "KSRobot_MLX90614",
+	"KSRobot_MLX90614.Temperature_State.ObjectTempC|block": "物體 攝氏溫度",
+	"KSRobot_MLX90614.Temperature_State.AmbientTempC|block": "環境 攝氏溫度",
+	"KSRobot_MLX90614.Temperature_State.ObjectTempF|block": "物體 華氏溫度",
+	"KSRobot_MLX90614.Temperature_State.AmbientTempF|block": "環境 華氏溫度",
+	"KSRobot_MLX90614.read_temperature|block": " 測量%state "
+			
+}

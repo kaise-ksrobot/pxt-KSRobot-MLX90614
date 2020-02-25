@@ -1,0 +1,20 @@
+{
+    "name": "KSRobot_MLX90614",
+    "version": "0.3.1",
+    "description": "Extension for KAISE KSRobot MLX90614 Infrared Thermometer",
+    "license": "MIT", 
+    "dependencies": {
+        "core": "*"
+        
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "_locales/zh/KSRobot_MLX90614-strings.json" 
+        
+    ],
+    "testFiles": [
+      "tests.ts"
+    ],
+    "public": true
+}
